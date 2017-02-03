@@ -8,4 +8,4 @@ C: Right-side wheel
 D: Sweeping collector and storage "belt"
 
 Sensor Ports:
-None
+1: Color Sensor: Sense if there is a ball in the "belt" ready to be fired
